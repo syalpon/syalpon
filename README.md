@@ -1,5 +1,5 @@
-### 仕事は増えても給料は増えない
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syalpon)](https://github.com/syalpon/github-readme-stats&show_icons=true&theme=radical)
+## 効率を上げても給料は上がらず、仕事が増える
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syalpon)](https://github.com/syalpon/github-readme-stats&show_icons=true&theme=dracula)
 
 
 <!--
