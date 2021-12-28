@@ -1,6 +1,6 @@
 ## 効率を上げても給料は上がらず、仕事が増える
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syalpon)](https://github.com/syalpon/github-readme-stats&theme=dracula)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syalpon&theme=vue)
 
 <!--
 **syalpon/syalpon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
