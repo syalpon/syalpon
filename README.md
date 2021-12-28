@@ -1,6 +1,5 @@
-## 効率を上げても給料は上がらず、仕事が増える
+## var InportantTree = { "やる気" , "元気" , "気づき" };
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syalpon&theme=monokai)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syalpon&theme=dark)](https://github.com/syalpon/github-readme-stats)-->
 
 <a href="https://github.com/syalpon/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=syalpon&count_private=true&show_icons=true&theme=dark" />
